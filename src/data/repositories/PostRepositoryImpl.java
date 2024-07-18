@@ -4,7 +4,6 @@ import data.models.Post;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.concurrent.LinkedTransferQueue;
 
 public class PostRepositoryImpl implements PostRepository {
 

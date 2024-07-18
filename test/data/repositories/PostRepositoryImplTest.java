@@ -44,6 +44,6 @@ class PostRepositoryImplTest {
     }
 
     @Test
-    void count() {
+    void count()
     }
 }
